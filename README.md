@@ -20,7 +20,7 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 - [Data Processing ](#data-processing)
 - [Data Modelling](#data-modelling)
 - [Key Insights](#key-insights)
-- [Summary & Recommendations](#summary-&-recommendations)
+- [Summary and Recommendations](#summary-and-recommendations)
 - [References](#references)
 
 
@@ -154,7 +154,7 @@ Effective data modelling structures raw data into an analytical framework, allow
  ![image alt](https://github.com/Its-Lilianne/PowerBI-Project/blob/58877a801bc76be5b73947d318f754b12fb6e197/Maven%20Toy%20Store%20--%20Inventory%20Report.png)
 
 
-## Summary & Recommendations 
+## Summary and Recommendations 
 ### Summary of Key Findings: 
 1. Downtown stores are the most profitable. 
 2. Toys lead in profitability, followed by Electronics. 
