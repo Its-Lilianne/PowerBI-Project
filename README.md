@@ -40,5 +40,32 @@ The primary goal of this analysis is to generate actionable insights into Maven 
 5. Which stores perform best and worst in terms of revenue and profitability?
 
 
-## Tools and Methodologies 
+### Tools and Methodologies 
 *Tool Used:* *Microsoft Power BI* [Website](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+
+
+### Techniques
+The following BI techniques and concepts were applied:
+1. Data Cleaning & Transformation using Power Query
+2. Data Modelling to establish structured relationships between tables
+3. DAX Implementation for advanced calculations and metrics
+4. Data Visualisation for interactive and insightful dashboards
+5. Comprehensive Project Documentation for clear reporting of insights
+
+
+
+## Data Processing 
+
+### Data Importation and Cleaning 
+Importation Process: Data was ingested using Power BI’s Excel connector. 
+
+### Cleaning Steps: 
+- Promoted headers for consistent column naming. 
+- Converted ID columns from whole numbers to text (as they serve as unique identifiers rather than numerical values). 
+- Added calculated fields for total product cost, total product price, and profit in the sales dataset. 
+- Corrected data types to ensure consistency. 
+- Trimmed redundant store names in the Stores Table for clarity. 
+- Created a Dates Table using CALENDARAUTO() to facilitate temporal analysis, extracting year, quarter, month, and day attributes.
+
+
