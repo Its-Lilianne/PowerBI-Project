@@ -8,3 +8,17 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 
 
 ![image alt](https://github.com/Its-Lilianne/PowerBI-Project/blob/a5d370dfe673b0f7eb79ef51773b402564115920/Maven%20Toy%20Store%20--%20Dashboad.png)
+
+
+### Table of Contents
+
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Objective](#objectives)
+- [Key Business Questions](#key-business-questions)
+- [Tools and Methodologies](#tools-and-methodologies)
+- [Data Processing ](#data-processing)
+- [Data Modeling](#data-modeling)
+- [Key Insights](#key-insights)
+- [Summary & Recommendations](#summary-&-recommendations)
+- [References](#references)
