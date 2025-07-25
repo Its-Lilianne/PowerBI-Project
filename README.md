@@ -22,3 +22,23 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 - [Key Insights](#key-insights)
 - [Summary & Recommendations](#summary-&-recommendations)
 - [References](#references)
+
+
+### Objectives
+The primary goal of this analysis is to generate actionable insights into Maven Toy Store's overall sales performance and profitability by evaluating: 
+- Store location performance 
+- Seasonal sales trends 
+- Product profitability and sales effectiveness 
+- Provide recommendations to optimise business strategies.
+
+ 
+### Key Business Questions 
+1. Which product categories yield the highest profits, and how do these trends vary across different store locations?
+2. Are there identifiable seasonal sales patterns?
+3. What is the company's current market reach in terms of store distribution and geographic presence?
+4. What is the total inventory value, and how long can it sustain current sales levels?
+5. Which stores perform best and worst in terms of revenue and profitability?
+
+
+## Tools and Methodologies 
+*Tool Used:* *Microsoft Power BI* [Website](https://www.microsoft.com/en-us/power-platform/products/power-bi)
