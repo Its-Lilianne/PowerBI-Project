@@ -167,4 +167,4 @@ Effective data modelling structures raw data into an analytical framework, allow
 3. **Enhance inventory management** to avoid stock shortages or excesses, ensuring optimal stock levels.
 
 ### References
-[power bi](https://docs.google.com/spreadsheets/d/1XA16OIdstDgFrCAB384_KMg1PoiYGB4S/edit?usp=drive_link&ouid=107686833480698647313&rtpof=true&sd=true)
+[10 Days of PowerBI](https://docs.google.com/spreadsheets/d/1XA16OIdstDgFrCAB384_KMg1PoiYGB4S/edit?usp=drive_link&ouid=107686833480698647313&rtpof=true&sd=true)
