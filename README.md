@@ -125,4 +125,30 @@ Effective data modelling structures raw data into an analytical framework, allow
   - Maven Toys Cuernavaca 1 - $57K
   - Maven Toys La Paz 1 - $57K 
 
-![image alt]()
+![image alt](https://github.com/Its-Lilianne/PowerBI-Project/blob/8d49c089478729c030c5c825964f7fa80cd9066d/Maven%20Toy%20Store%20--%20Stores%20Report.png)
+
+
+### Seasonal Trends & Patterns 
+1. **Peak Sales & Profits:** March–July
+   - Highest Sales: April (112K units)
+   - Highest Profit: March ($406K) 
+2. **Lowest Sales & Profits:** October
+   - Sales: 48K units
+   - Profit: $179K 
+3. **Quarterly Trends:**
+   - Q2 (April–June): Highest sales
+   - Q4 (October–December): Lowest sales 
+4. **Yearly Trends:**
+   - 2017: Sales peaked towards year-end.
+   - 2018: Stronger sales from February to July, with March leading.
+  
+ ![image alt]()
+  
+### Inventory Analysis 
+**Current Inventory Value & Turnover:**
+- Total Inventory Value: $300K
+- Total Stock: 29,742 units
+- Average Daily Sales: 1,709 units
+- Estimated Inventory Duration: 15-17 days before restocking is required.
+
+ ![image alt]()
