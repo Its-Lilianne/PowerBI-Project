@@ -106,6 +106,6 @@ Effective data modelling structures raw data into an analytical framework, allow
   - Deck of Cards - 84K units
   - Magic Sand - 61K units
 
-![image alt]()
+![image alt](https://github.com/Its-Lilianne/PowerBI-Project/blob/0d5a2aca5be9ee07c5d79865c457c2e03cb7af12/Maven%20Toy%20Store%20--%20Sales%20Report.png)
 
  **Notably, Play-Doh can rank high in sales volume but not in profitability.**
