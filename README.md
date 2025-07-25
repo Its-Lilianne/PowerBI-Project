@@ -142,7 +142,7 @@ Effective data modelling structures raw data into an analytical framework, allow
    - 2017: Sales peaked towards year-end.
    - 2018: Stronger sales from February to July, with March leading.
   
- ![image alt]()
+ ![image alt](https://github.com/Its-Lilianne/PowerBI-Project/blob/d09ac15459ad41733e0723c09338e8de0c821595/Maven%20Toy%20Store%20--%20Trend%20%26%20Pattern%20Report.png)
   
 ### Inventory Analysis 
 **Current Inventory Value & Turnover:**
@@ -152,3 +152,18 @@ Effective data modelling structures raw data into an analytical framework, allow
 - Estimated Inventory Duration: 15-17 days before restocking is required.
 
  ![image alt](https://github.com/Its-Lilianne/PowerBI-Project/blob/58877a801bc76be5b73947d318f754b12fb6e197/Maven%20Toy%20Store%20--%20Inventory%20Report.png)
+
+
+## Summary & Recommendations 
+### Summary of Key Findings: 
+1. Downtown stores are the most profitable. 
+2. Toys lead in profitability, followed by Electronics. 
+3. Sales dip in January, February, and October. 
+4. Electronics excel in Airport and Commercial locations, while Toys dominate Downtown and Residential areas.
+
+### Strategic Recommendations: 
+1. **Expand investment in Downtown stores** to capitalise on high profitability. 
+2. **Investigate low sales in January and February** to identify and mitigate potential market challenges. 
+3. **Enhance inventory management** to avoid stock shortages or excesses, ensuring optimal stock levels.
+
+### References
