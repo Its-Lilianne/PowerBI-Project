@@ -109,3 +109,20 @@ Effective data modelling structures raw data into an analytical framework, allow
 ![image alt](https://github.com/Its-Lilianne/PowerBI-Project/blob/0d5a2aca5be9ee07c5d79865c457c2e03cb7af12/Maven%20Toy%20Store%20--%20Sales%20Report.png)
 
  **Notably, Play-Doh can rank high in sales volume but not in profitability.**
+
+
+### Store & Location Analysis 
+1. **Which locations generate the highest profits?**
+   - Downtown stores lead with over $2M in profits.
+   - Airport stores yield the lowest profit at $378K. 
+2. **Most Profitable Stores:**
+  - Maven Toys Ciudad de Mexico 2 - $170K
+  - Maven Toys Guadalajara 3 - $121K
+  - Maven Toys Ciudad de Mexico 1 - $111K
+  - Maven Toys Monterrey 2 - $107K
+  - Maven Toys Toluca - $105K 
+3. **Least Profitable Stores:**
+  - Maven Toys Cuernavaca 1 - $57K
+  - Maven Toys La Paz 1 - $57K 
+
+![image alt]()
