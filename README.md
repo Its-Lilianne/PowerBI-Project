@@ -75,4 +75,4 @@ Effective data modelling structures raw data into an analytical framework, allow
 • **Fact Table:** Sales Table, Inventory
 • **Dimension Tables:** Products, Stores, and Dates
 
-![image alt]()
+![image alt](https://github.com/Its-Lilianne/PowerBI-Project/blob/fcfebb7961875bf33593792cbc3ae8a0f735fe18/Maven%20Toy%20Store%20--%20Relationship%20Model.png)
