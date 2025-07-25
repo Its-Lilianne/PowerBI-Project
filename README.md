@@ -91,17 +91,21 @@ Effective data modelling structures raw data into an analytical framework, allow
 - Electronics dominate in Airport and Commercial locations. 
 - Toys perform best in Downtown and Residential areas.
  
-3. *Top Performing Products*
-Highest Profit-Generating Products:
+3. **Top Performing Products**
+**Highest Profit-Generating Products:**
 - Colorbuds - $835K 
 - Action Figure - $348K 
 - Lego Bricks - $298K 
 - Deck of Cards - $252K 
 - Glass Marbles - $190K
 
-4. *Most Sold Products:*
+4. **Most Sold Products**
   - Colorbuds - 104K units (23.5%)
   - Play-Doh Can - 103K units (23.2%)
   - Barrel O’Slime - 91K units
   - Deck of Cards - 84K units
   - Magic Sand - 61K units
+
+![image alt]()
+
+ **Notably, Play-Doh can rank high in sales volume but not in profitability.**
