@@ -60,7 +60,7 @@ The following BI techniques and concepts were applied:
 ### Data Importation and Cleaning 
 Importation Process: Data was ingested using Power BI’s Excel connector. 
 
-### Cleaning Steps: 
+#### Cleaning Steps: 
 - Promoted headers for consistent column naming. 
 - Converted ID columns from whole numbers to text (as they serve as unique identifiers rather than numerical values). 
 - Added calculated fields for total product cost, total product price, and profit in the sales dataset. 
