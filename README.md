@@ -151,4 +151,4 @@ Effective data modelling structures raw data into an analytical framework, allow
 - Average Daily Sales: 1,709 units
 - Estimated Inventory Duration: 15-17 days before restocking is required.
 
- ![image alt]()
+ ![image alt](https://github.com/Its-Lilianne/PowerBI-Project/blob/58877a801bc76be5b73947d318f754b12fb6e197/Maven%20Toy%20Store%20--%20Inventory%20Report.png)
