@@ -18,7 +18,7 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 - [Key Business Questions](#key-business-questions)
 - [Tools and Methodologies](#tools-and-methodologies)
 - [Data Processing ](#data-processing)
-- [Data Modeling](#data-modeling)
+- [Data Modelling](#data-modelling)
 - [Key Insights](#key-insights)
 - [Summary & Recommendations](#summary-&-recommendations)
 - [References](#references)
@@ -70,4 +70,8 @@ Importation Process: Data was ingested using Power BI’s Excel connector.
 
 
 ## Data Modelling 
-Effective data modelling structures raw data into an analytical framework, allowing seamless relationship-building between tables. In this project, Power BI automatically identified table relationships, forming a *star schema model*: 
+Effective data modelling structures raw data into an analytical framework, allowing seamless relationship-building between tables. In this project, Power BI automatically identified table relationships, forming a **star schema model**: 
+
+• **Fact Table:** Sales Table, Inventory
+
+• **Dimension Tables:** Products, Stores, and Dates
